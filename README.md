@@ -1,1 +1,1 @@
-# euclidean_distance_score--sim_pearson
+# Classifikation_regularization
